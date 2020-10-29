@@ -6,4 +6,6 @@ Then press G to release the hostage or H to kill the hostage!
 
 Feel free to make improvements with PRs|
 
+in this version hackers can't trigger the sync event so no one is able to take hostage everyone at the same time.
+
 
